@@ -6,7 +6,7 @@ Adaptive Sliding-mode Dynamic Controller for Three-wheels Omni Directional Mobil
 2. 
 
 ## Results
-![ASMC](results/asmc.fig)
+![ASMC](results/asmc.jpg)
 
-![Fuzzy inference system (FIS)](results/fuzzy.fig)
+![Fuzzy inference system (FIS)](results/fuzzy.jpg)
 
